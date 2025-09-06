@@ -5,3 +5,4 @@ Repack-cata
 - **DBC 	- https://www.mediafire.com/file/fh3j56feeq1q9ht/dbc.rar
 - **VMAPS	- http://www.mediafire.com/file/c0b79kud0gl6va3/vmaps.zip
 - **MAPS	- http://www.mediafire.com/file/cygl52djcr15rf5/maps.zip
+- **Data+Release -https://github.com/Olympuswow/Repack-cata/releases/download/Data-release/ServerCata.7zip
