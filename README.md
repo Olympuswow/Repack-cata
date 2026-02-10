@@ -1,7 +1,7 @@
 Repack-cata
 
 #Download Links:
-- **Database+Release - https://github.com/Olympuswow/Repack-cata/releases/download/release%2Bdb/Olympus-Cata.7zip
+- **Database+Release -  https://github.com/Olympuswow/Repack-cata/releases/download/release%2Bdb/ServerCata.7zip
 - **MMAPS	- https://mega.nz/#!rI0BlaTb!kK5qvCDPxETu0deg5t35vXRXEDnb3zq0THIkNu07dZ0
 - **DBC 	- https://www.mediafire.com/file/fh3j56feeq1q9ht/dbc.rar
 - **VMAPS	- http://www.mediafire.com/file/c0b79kud0gl6va3/vmaps.zip
