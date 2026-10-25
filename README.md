@@ -6,3 +6,5 @@ Repack-cata
 - **Olympus-SAI-Editor -  https://github.com/Olympuswow/Repack-cata/releases/download/Olympus-SAI-Editor/Olympus-SAI-Editor.zip
 
 discord: jorge990125
+
+https://discord.gg/h7AHTRYM8c
